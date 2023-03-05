@@ -1,11 +1,8 @@
-//A union type describes a value that can be one of several types. 
+
 
 const value:  string | number = "union type value, one of several types";
 
-//we generate function to map through, okay generated below okay, hmm
-//we slice and generate certain amount and now getsstaticprops, we have staticprops
-//then opathgs and each iteration now param and isd array strucutre paths 
-//next dev mode, we have map and we have create query param, there is id on that id is mapped valkue all of these links map value are made here
+
 
 import { GetStaticProps } from 'next';
 import Link from 'next/link';
@@ -44,11 +41,10 @@ export const getStaticProps: GetStaticProps = async (context) => {
         
         return {
             props:{
-                presidents: data.slice(4,19),//take only 3 names from the list
+                presidents: data.slice(4,19),
             },
             
         }
 }
 
 
-//kartverket:: https://www.kartverket.no/globalassets/geodataarbeid/geovekst/priskalkulator/data/produkter.json
