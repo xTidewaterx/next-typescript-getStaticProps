@@ -41,7 +41,7 @@ export const getStaticProps: GetStaticProps = async (context) => {
         
         return {
             props:{
-                presidents: data.slice(4,19),//take only 3 names from the list
+                presidents: data.slice(4,19),
             },
             
         }
