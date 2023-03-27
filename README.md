@@ -1,6 +1,7 @@
 # Semester Project 2
 
-![Semester Project 2](https://user-images.githubusercontent.com/79268288/224300749-d612d45d-1dbb-4280-90e0-9c361b033319.png)
+
+![project-4](https://user-images.githubusercontent.com/79268288/227971103-d4c79236-ee0e-4423-adb6-d68a11de2f80.png)
 
 
 
@@ -16,7 +17,7 @@ List of the American presidents from a certain period, using GetStaticProps and 
 ## Built With
 
 
-- [TypeScript]https://www.typescriptlang.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 
 
