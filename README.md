@@ -40,7 +40,7 @@ git clone https://github.com/xTidewaterx/next-typescript-getStaticProps
 ```
 npm install
 npm run build
-npm run start
+npm run dev
 ```
 
 ### Running
@@ -49,7 +49,7 @@ npm run start
 To run the app, run the following commands:
 
 ```bash
-npm run start
+npm run dev
 ```
 
 
