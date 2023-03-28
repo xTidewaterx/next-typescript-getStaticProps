@@ -3,7 +3,14 @@ const value: string | number = "union type value, one of several types";
 import { GetStaticProps } from "next";
 import Link from "next/link";
 
-function PresidentList({ presidents }: any) {
+interface presidentType  {
+   //object key-value pair in the form of any
+        [key: string]: any;
+}
+
+
+
+function PresidentList({ presidents }: presidentType) {
   console.log(presidents);
   return (
     <div className="list__container p-5">
