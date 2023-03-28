@@ -41,6 +41,8 @@ git clone https://github.com/xTidewaterx/next-typescript-getStaticProps
 npm install
 npm run build
 npm run dev
+
+(if an error occurs, this is a common fix: npm i --save-dev @types/next)
 ```
 
 ### Running
