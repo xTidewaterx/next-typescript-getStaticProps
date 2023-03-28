@@ -18,7 +18,7 @@ List of the American presidents from a certain period, using GetStaticProps and 
 
 
 - [TypeScript](https://www.typescriptlang.org/)
-- - [Next](https://vercel.com/solutions/nextjs?utm_campaign_id=18576682558)
+- [Next](https://vercel.com/solutions/nextjs?utm_campaign_id=18576682558)
 
 
 
