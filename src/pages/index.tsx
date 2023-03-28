@@ -6,8 +6,6 @@ interface presidentType  {
         [key: string]: any;
 }
 
-
-
 function PresidentList({ presidents }: presidentType) {
   console.log(presidents);
   return (
