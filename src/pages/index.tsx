@@ -1,5 +1,3 @@
-const value: string | number = "union type value, one of several types";
-
 import { GetStaticProps } from "next";
 import Link from "next/link";
 
